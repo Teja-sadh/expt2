@@ -2,3 +2,4 @@ This is file 1
 
 V2
 V3
+V6
